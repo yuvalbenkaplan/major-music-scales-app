@@ -1,9 +1,7 @@
 # Music scales look up app
 Client side app for looking up music scales
 
-**Link to project:** https://major-music-scales-app.herokuapp.com/
-
-![Website thumbnail](images/musicappimg.jpg)
+**Link to project:** https://major-music-scales-api.herokuapp.com/
 
 ## How It's Made:
 
